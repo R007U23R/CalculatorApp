@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Default colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Calculator specific colors -->
+    <color name="display_background">#FFFFFF</color>
+    <color name="display_text">#000000</color>
+
+    <!-- Button colors -->
+    <color name="number_button">#607D8B</color>
+    <color name="operation_button">#4CAF50</color>
+    <color name="special_button">#FFA500</color>
+    <color name="clear_button">#FF6B6B</color>
+    <color name="equals_button">#2196F3</color>
+    <color name="sqrt_button">#9C27B0</color>
+
+    <!-- App theme colors -->
+    <color name="app_background">#F5F5F5</color>
 </resources>

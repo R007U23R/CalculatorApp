@@ -31,4 +31,21 @@
     <string name="default_display">0</string>
     <string name="error_divide_zero">Error: Division by zero</string>
     <string name="error_invalid">Error: Invalid operation</string>
+
+    <!-- Memory buttons -->
+    <string name="btn_mc">MC</string>
+    <string name="btn_mr">MR</string>
+    <string name="btn_ms">MS</string>
+    <string name="btn_m_plus">M+</string>
+    <string name="btn_m_minus">M−</string>
+
+    <!-- Scientific buttons -->
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_log">log</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_power">x^y</string>
+    <string name="btn_pi">π</string>
+    <string name="btn_e">e</string>
 </resources>
