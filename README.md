@@ -17,4 +17,3 @@ Use „Android Studio” IDE in order to create Calculator application. Applicat
 
 > [!IMPORTANT]  
 > This lab teaches you to build a complete, polished application - not just functional code. The emphasis on proper naming, separate logic class, and resource files shows your professor is preparing you for professional development where code quality, maintainability, and user experience matter as much as functionality.
-The calculator is also a classic interview project - many companies ask candidates to build a calculator to assess their programming skills, attention to detail, and ability to handle edge cases.
